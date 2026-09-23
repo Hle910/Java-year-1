@@ -87,7 +87,7 @@ public class FinalGrade {
       }
     
     public static void main(String[] args) {
-    System.out.println("***CSE 1310 grade calculator!***");
+    System.out.println("***Grade calculator!***");
     
     /*Use to select # of grades to enter
     int b=enterNum("\nHow many HW grades would you like to enter?");
